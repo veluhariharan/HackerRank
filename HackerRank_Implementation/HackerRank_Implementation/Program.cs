@@ -16,7 +16,8 @@ class Solution
 
             CalculateDivisors(n);
         }
-        
+
+        Console.ReadLine();
 
     }
 
